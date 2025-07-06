@@ -67,3 +67,8 @@ In this milestone, I tried searching for useful datasets and started learning ne
 ### Salem Amassi
 
 I have learned to narrow down my search to save time and take the initiative when other members can't be active enough.
+
+### Viktoriya Haiduk
+
+Unfortunately, due to personal circumstances, I was not able to participate in milestone 2.
+However, I’m truly grateful to my team for welcoming me into the third milestone and giving me the opportunity to contribute. I’m proud to be part of such a dedicated and successful group.
