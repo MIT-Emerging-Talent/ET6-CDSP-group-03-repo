@@ -18,4 +18,4 @@
 * changing data types to compatible types(e.g. 'Date' to datetime type).
 * We avoided dropping and generally substituted categorical data null values with the word 'unknown' or similar words and numerical null values with 0 where applicable.
 
-_[here is our template cleaning notebook](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/milestone-2-enhancements-adding-cleaning-summary/2_data_preparation/notebooks/data_cleaning_notebook_template.ipynb)_
+_[here is our cleaning template notebook](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/milestone-2-enhancements-adding-cleaning-summary/2_data_preparation/notebooks/data_cleaning_notebook_template.ipynb)_
