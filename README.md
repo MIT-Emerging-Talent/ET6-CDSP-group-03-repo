@@ -12,19 +12,18 @@ DATA ALCHEMISTS is dedicated to fostering a culture of trust, respect, and accou
 
 ## Problem statement
 
-In regions affected by war, the education system is one of the first societal structures to collapse.
- Students who once demonstrated high academic performance and consistent attendance often experience
-  a significant decline in both after conflict begins. Violence, displacement, psychological trauma,
-   and the breakdown of infrastructure such as internet access or school availability contribute
-    to reduced academic outcomes and disrupted attendance.
+In regions affected by war, the education system is one of the first societal
+ structures to collapse. War events and the breakdown of infrastructure, such
+  as internet access or school availability, contribute to poor educational
+  opportunities and a disrupted education.
 
-This project investigates how armed conflict affects students' performance and attendance over time.
- By comparing pre-conflict and during-conflict academic records, we aim to understand the depth
-  of disruption and identify patterns that can inform targeted interventions.
+This project investigates how armed conflict affects the education system
+in Gaza by analyzing the correlation between war events and their impact
+ on the education system.
 
 ## research question
 
-How does war disruption such as violence, displacement, and infrastructure breakdown impact students' academic performance and attendance on online learning for students in colleges in war affected zones?
+How did war events affect education in Gaza??
 
 ## Group Summary of the Problem Domain (with Systems Thinking)
 
