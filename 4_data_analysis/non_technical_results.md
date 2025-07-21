@@ -49,7 +49,7 @@ We still believe that the simple analysis of war events data contributes strongl
 
 ### Data Analysis Displacements Orders
 
-![figure](plots_images\plot_one.png)
+![figure](plots_images/plot_one.png)
 
 As we can see, there are some intensive months with many displacement orders, like:
 
@@ -61,35 +61,35 @@ As we can see, there are some intensive months with many displacement orders, li
 
 Considering the fact that college students got back to formal studying in July 2024, this high number of displacement orders students have to go through during, after, and before active studying will for sure have an effect on their performance.
 
-![figure](plots_images\plot_two.png)
+![figure](plots_images/plot_two.png)
 
-![figure](plots_images\plot_three.png)
+![figure](plots_images/plot_three.png)
 
 We can also see there are overlaps between dates and months. Regarding 2023, most of the displacement happened to the north, so not much of an area was evacuated in comparison to 2024 and 2025, when orders have caused evacuation to more and more areas
 in the north and south as well.
 
-![figure](plots_images\plot_four.png)
+![figure](plots_images/plot_four.png)
 
 Key finding: As most orders were issued on work days (according to the Arabic calendar), this affects students' performance for sure, because the majority of exams, activities, and sessions will be issued from Saturday to Thursday (Friday is the weekend),
 especially on IUG.
 
 ### Data Analysis casualties_data
 
-![figure](plots_images\plot_five.png)
-![figure](plots_images\plot_six.png)
+![figure](plots_images/plot_five.png)
+![figure](plots_images/plot_six.png)
 
 96.5% of the daily casualties are civilians, with 34.7% Children, 41.4% men, and 23.9% women.
 
-![figure](plots_images\plot_seven.png)
+![figure](plots_images/plot_seven.png)
 
 As we can see from the plot, professional deaths kept increasing over time. A lot of medical professionals were dying, which reflects the medical infrastructure, which in turn reflects that students in Gaza are not gonna get good medical care.
 Medical Impact: 227 medical personnel deaths, mostly early in the conflict.
 
-![figure](plots_images\plot_eight.png)
+![figure](plots_images/plot_eight.png)
 
 Long-term Trauma: Over 130,000 injuries indicate severe public health consequences.
 
-![figure](plots_images\plot_nine.png)
+![figure](plots_images/plot_nine.png)
 
 After the peak period, deaths remained high, most deaths happened in May 2024 onward, coinciding with students getting back to formal online college education.
 
@@ -99,43 +99,43 @@ Average Impact on Education Facilities per Active Day
 Destroyed: 1.61 buildings/day
 Damaged: 3.13 buildings/day
 
-![figure](plots_images\plot_ten.png)
+![figure](plots_images/plot_ten.png)
 
 The number of  daily affected(damaged or destroyed) educational facilities kept increasing over time, this for sure includes schools and colleges.
 
-![figure](plots_images\plot_eleven.png)
-![figure](plots_images\plot_twelve.png)
+![figure](plots_images/plot_eleven.png)
+![figure](plots_images/plot_twelve.png)
 
 When not considering the residential infrastructure damage. 32.5% of the infrastructure damage that happened during the reported time is educational infrastructure damage, but for sure, we should not be ignoring that 99.3% of the damaged infrastructure
 was residential, because to us, it means that a lot of the students' houses were destroyed.
 
-![figure](plots_images\plot_thirteen.png)
+![figure](plots_images/plot_thirteen.png)
 
-![figure](plots_images\plot_fourteen.png)
+![figure](plots_images/plot_fourteen.png)
 From the plot we can see that there is a high correlation between civil damage and educational infrastructure damage (positive association)
 
-![figure](plots_images\plot_fifteen.png)
+![figure](plots_images/plot_fifteen.png)
 From the plot, we can see that there is a high correlation between the daily religion infrastructure damage and the daily educational infrastructure damage (positive association)
 
-![figure](plots_images\plot_sixteen.png)
+![figure](plots_images/plot_sixteen.png)
 In the beginning months, a large number of educational infrastructures were damaged or destroyed. We can see that at the beginning of the war a lot of educational facilities were attacked.
 
 ### Data Analysis Food Insecurity
 
 In this analysis southern and northern parts of Gaza were considered southern or northern the Netzarim line.
 
-![figure](plots_images\plot_seventeen.png)
+![figure](plots_images/plot_seventeen.png)
 
 Deir el-Balah has the most food infrastructure attacks and it is in the southern part of Gaza and from the plot we can see that Gaza city has more than 65 attacks coming directly after Deir el-Balah, Gaza city is considered in the northern part of Gaza
 (northern the Netzarim line) but both Deir el-Balah and Gaza city are in the central part of Gaza and they are high populated cities (at least before the war).
 
-![figure](plots_images\plot_eighteen.png)
+![figure](plots_images/plot_eighteen.png)
 from the plot we can see that most of the attacks were done by the Armed forces of Israel Armed forces of israel are responsible for more than 250 attacks out of a total of 284.
 
-![figure](plots_images\plot_nineteen.png)
+![figure](plots_images/plot_nineteen.png)
 the most frequent attacking methods are 'Air or Drone Strike', 'Artillery, Shelling or Missile Fire',and Firearms. we have 15 undefined attacking methods.
 
-![figure](plots_images\plot_twenty.png)
+![figure](plots_images/plot_twenty.png)
 the most affected objects are 'crops and lands', then, 'food supply chains', and lastly comes 'food supply chains,populations'.
 crops and lands is mainly AND ONLY 'Agricultural Land', 150 were affected, for the most sub-object affected within 'Food Supply Chains': 24 bakeries and 24 markets were affected. This reflects the starvation that students in Gaza have had to go through
 and are still going through.
@@ -144,12 +144,12 @@ we also found there were 29 attacks towards People Waiting for or Receiving Aid 
 
 #### the period of July 2024 to september 2024
 
-![figure](plots_images\plot_twenty_one.png)
+![figure](plots_images/plot_twenty_one.png)
 
 we can see even within this period of time most of the food infrastructure attacks happened in the southern part of Gaza, specifically 13 out of 17 attacks happened in the south: Deir el-Balah: 8 attacks Khan Younis: 5 attacks.
 
-![figure](plots_images\plot_twenty_two.png)
+![figure](plots_images/plot_twenty_two.png)
 
 the most effected Sub-Object within the period of July to September 2024 is Agricultural Lands (8), then, markets (5), and lastly 4 bakeries were attacked.
 
-![figure](plots_images\plot_twenty_three.png)
+![figure](plots_images/plot_twenty_three.png)
