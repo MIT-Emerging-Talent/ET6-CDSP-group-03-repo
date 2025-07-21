@@ -55,7 +55,7 @@ In particular, we avoided:
 
 ## JSON Notebooks
 
-- [Wour](3_data_exploration/casualties_data_analysis.ipynb)
-- [Salem](3_data_exploration/displacement_orders_EDA.ipynb)
-- [Viktoriya](3_data_exploration/infrastracture_damaged_analysis.ipynb)
-- [Raneem](3_data_exploration/fivc_gaza_dataset_exploration_and_analysis.ipynb)
+- [Wour](../3_data_exploration/casualties_data_analysis.ipynb)
+- [Salem](../3_data_exploration/displacement_orders_EDA.ipynb)
+- [Viktoriya](../3_data_exploration/infrastracture_damaged_analysis.ipynb)
+- [Raneem](../3_data_exploration/fivc_gaza_dataset_exploration_and_analysis.ipynb)
