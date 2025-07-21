@@ -53,7 +53,7 @@ In particular, we avoided:
 
 ---
 
-## JSON Notebooks
+## Jupyter Notebooks
 
 - [Wour](../3_data_exploration/casualties_data_analysis.ipynb)
 - [Salem](../3_data_exploration/displacement_orders_EDA.ipynb)
