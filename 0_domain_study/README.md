@@ -73,7 +73,7 @@ explores online learning and its effectiveness in war regions and post crises li
 * The All‑Ukrainian Online School,National platform for remote learning post‑war and COVID-19.
 * Insights on end-to-end EdTech systems in Africa.
 
-📄 See [Attendance Resources](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/fixing_0_domain_study_folder/0_domain_study/resources/Online%20Learning%20Barriers/links.md)
+📄 See [Online learning Barriers resources](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/fixing_0_domain_study_folder/0_domain_study/resources/Online%20Learning%20Barriers/links.md)
 
 ---
 
