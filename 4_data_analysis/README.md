@@ -2,7 +2,7 @@
 
 [Non technical results of our war events data analysis here](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/non-technical-document/4_data_analysis/non_technical_results.md)
 
-### 📘 Non-Technical Summary
+## 📘 Non-Technical Summary
 
 We investigated how armed conflict affects students' academic performance and attendance, focusing
 on the case of Gaza. Using data from public war events databases, we explored the impact of violence, displacement, infrastructure damage, and psychological trauma on online learning. Even
@@ -14,7 +14,7 @@ hardships continue to affect their academic engagement.
 
 [technical description of our war events data analysis here](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/4_data_analysis/technical_description.md)
 
-### 🛠️ Technical Summary
+## 🛠️ Technical Summary
 
 Our team analyzed several war-related datasets to assess their impact on student life in Gaza, including casualties, displacement orders, infrastructure damage, and food supply disruption.
 Each dataset was explored using simple rule-based logic, time-series analysis, and categorical aggregation depending on its structure.
