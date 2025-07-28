@@ -51,13 +51,13 @@ The problems are grouped into several thematic areas:
 ### 📂 1. War and Academic Performance
 
 **Focus**:  
-Analyzes how war-induced trauma, displacement, and infrastructure breakdown affect students' test scores, classroom participation, and ability to concentrate or retain information.
-
+inspects how war-induced trauma, displacement, and infrastructure breakdown affect students academic performance and well-being.
 **Resources Include**:
 
-* Reports from UNESCO and Save the Children on performance decline in conflict zones  
-* PDF case studies showing pre- and post-conflict grade comparisons  
-* Links to education data in Syria, South Sudan, Ukraine, and Gaza  
+* Reports from UNICEF about education in Mali and Sahel region-Africa.
+* PDF about the affect of war on emotional well-being of students and academic performance.
+* How crises around the world are impacting children’s learning.
+
 📄 All structured links in [this file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/fixing_0_domain_study_folder/0_domain_study/resources/Education%20in%20Conflict/links.md)
 
 ---
@@ -72,11 +72,12 @@ explores online learning and its effectiveness in war regions and post crises li
 * Online Learning in War Zones like Ukraine.
 * The All‑Ukrainian Online School,National platform for remote learning post‑war and COVID-19.
 * Insights on end-to-end EdTech systems in Africa.
+
 📄 See [Attendance Resources](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/fixing_0_domain_study_folder/0_domain_study/resources/Online%20Learning%20Barriers/links.md)
 
 ---
 
-### 📂 3. Impact of AI on Uni Students
+### 📂 3. Impact of AI on Education
 
 **Focus**:  
 explored the affect of AI on learning from different perspectives.
@@ -85,7 +86,9 @@ explored the affect of AI on learning from different perspectives.
 
 * articles about the affect of AI on learning behaviors.
 * datasets about the affect of AI.
-* documents about the affect of AI on learning performance
+* documents about the affect of AI on learning performance.
+
+📄 See [Impact of AI on education articles](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/fixing_0_domain_study_folder/0_domain_study/resources/Impact%20of%20AI%20on%20Uni%20Students/links.md)
 
 ---
 
@@ -99,6 +102,7 @@ Identifies humanitarian organizations, NGOs, educational ministries, and communi
 * Strategy reports from UNICEF, UNHCR, and Save the Children  
 * Case studies of NGO-school partnerships in emergencies  
 * Databases of global education projects in crisis zones  
+
 📄 See [Stakeholders Directory](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/fixing_0_domain_study_folder/0_domain_study/resources/Stakeholders%20or%20private%20organizations/links.md)
 
 ---
