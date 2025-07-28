@@ -58,35 +58,34 @@ Analyzes how war-induced trauma, displacement, and infrastructure breakdown affe
 * Reports from UNESCO and Save the Children on performance decline in conflict zones  
 * PDF case studies showing pre- and post-conflict grade comparisons  
 * Links to education data in Syria, South Sudan, Ukraine, and Gaza  
-📄 All structured links in [this file](/0_domain_study/resources/Performance%20in%20Conflict/links.md)
+📄 All structured links in [this file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/fixing_0_domain_study_folder/0_domain_study/resources/Education%20in%20Conflict/links.md)
 
 ---
 
-### 📂 2. Attendance and Dropout Trends
+### 📂 2. Online learning Barriers
 
 **Focus**:  
-Tracks how conflict impacts student attendance, school dropout rates, and school closures—especially in relation to displacement or infrastructure destruction.
+explores online learning and its effectiveness in war regions and post crises like COVID-19.
 
 **Resources Include**:
 
-* Attendance datasets and longitudinal reports  
-* UNHCR and UNICEF data on refugee education access  
-* Articles on school retention strategies in conflict areas  
-📄 See [Attendance Resources](/0_domain_study/resources/Attendance%20in%20Conflict/links.md)
+* Online Learning in War Zones like Ukraine.
+* The All‑Ukrainian Online School,National platform for remote learning post‑war and COVID-19.
+* Insights on end-to-end EdTech systems in Africa.
+📄 See [Attendance Resources](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/fixing_0_domain_study_folder/0_domain_study/resources/Online%20Learning%20Barriers/links.md)
 
 ---
 
-### 📂 3. Learning Continuity and Educational Access
+### 📂 3. Impact of AI on Uni Students
 
 **Focus**:  
-Explores strategies that have been implemented to ensure learning continues during conflict, especially when students lose access to formal schooling or teaching staff.
+explored the affect of AI on learning from different perspectives.
 
 **Resources Include**:
 
-* Reports on low-tech and offline learning methods  
-* PDFs on blended learning and alternative delivery models  
-* Articles on education through radio, print packets, or mobile learning initiatives  
-📄 Organized in [this file](/0_domain_study/resources/Learning%20Continuity/links.md)
+* articles about the affect of AI on learning behaviors.
+* datasets about the affect of AI.
+* documents about the affect of AI on learning performance
 
 ---
 
@@ -100,7 +99,7 @@ Identifies humanitarian organizations, NGOs, educational ministries, and communi
 * Strategy reports from UNICEF, UNHCR, and Save the Children  
 * Case studies of NGO-school partnerships in emergencies  
 * Databases of global education projects in crisis zones  
-📄 See [Stakeholders Directory](/0_domain_study/resources/Stakeholders/links.md)
+📄 See [Stakeholders Directory](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/fixing_0_domain_study_folder/0_domain_study/resources/Stakeholders%20or%20private%20organizations/links.md)
 
 ---
 
