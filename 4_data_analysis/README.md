@@ -25,7 +25,7 @@ We deliberately avoided machine learning models due to the limited size and inco
 
 Each team member worked on a specific domain using Notebooks, and the combined results help us better understand how the war has affected access to education and students’ ability to learn under extreme conditions.
 
-- [Casualities analysis](../3_data_exploration/casualties_data_analysis.ipynb)
+- [Casualties analysis](../3_data_exploration/casualties_data_analysis.ipynb)
 - [Displasement orders analysis](../3_data_exploration/displacement_orders_EDA.ipynb)
 - [Damage infrastructure analysis](../3_data_exploration/infrastracture_damaged_analysis.ipynb)
 - [Food Supply Disruption analysis](../3_data_exploration/fivc_gaza_dataset_exploration_and_analysis.ipynb)
