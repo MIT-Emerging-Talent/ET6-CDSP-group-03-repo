@@ -58,7 +58,7 @@ inspects how war-induced trauma, displacement, and infrastructure breakdown affe
 * PDF about the affect of war on emotional well-being of students and academic performance.
 * How crises around the world are impacting children’s learning.
 
-📄 All structured links in [this file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/fixing_0_domain_study_folder/0_domain_study/resources/Education%20in%20Conflict/links.md)
+📄 All structured links in [this file](/0_domain_study/resources/Education in Conflict/links.md)
 
 ---
 
@@ -73,7 +73,7 @@ explores online learning and its effectiveness in war regions and post crises li
 * The All‑Ukrainian Online School, National platform for remote learning post‑war and COVID-19.
 * Insights on end-to-end EdTech systems in Africa.
 
-📄 See [Online learning Barriers resources](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/fixing_0_domain_study_folder/0_domain_study/resources/Online%20Learning%20Barriers/links.md)
+📄 See [Online learning Barriers resources](/0_domain_study/resources/Online Learning Barriers/links.md)
 
 ---
 
@@ -88,9 +88,9 @@ explored the affect of AI on learning from different perspectives.
 * datasets about the affect of AI.
 * documents about the affect of AI on learning performance.
 
-📄 See [Impact of AI on education articles](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/fixing_0_domain_study_folder/0_domain_study/resources/Impact%20of%20AI%20on%20Uni%20Students/links.md)
+📄 See [Impact of AI on education articles](/0_domain_study/resources/Impact of AI on Uni Students/links.md)
 
-[see all resources here](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/tree/fixing_0_domain_study_folder/0_domain_study/resources/Impact%20of%20AI%20on%20Uni%20Students)
+[see all resources here](/0_domain_study/resources/Impact of AI on Uni Students)
 
 ---
 
@@ -105,7 +105,7 @@ Identifies humanitarian organizations, NGOs, educational ministries, and communi
 * Case studies of NGO-school partnerships in emergencies  
 * Databases of global education projects in crisis zones  
 
-📄 See [Stakeholders Directory](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/fixing_0_domain_study_folder/0_domain_study/resources/Stakeholders%20or%20private%20organizations/links.md)
+📄 See [Stakeholders Directory](/0_domain_study/resources/Stakeholders or private organizations/links.md)
 
 ---
 
