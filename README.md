@@ -10,6 +10,15 @@ DATA ALCHEMISTS is dedicated to fostering a culture of trust, respect, and accou
      contribute and learn from collective experiences, ensuring we work
       together effectively to achieve success.
 
+## 👥 Team Members
+
+* [Raneem Rami](https://github.com/Raneemrami)
+* [Viktoriya Haiduk](https://github.com/ViktoriyaHaiduk)
+* [Wuor Bhang](https://github.com/WuorBhang)
+* [Salem Amassi](https://github.com/salemAmassi)
+* [Norbert Busingye](https://github.com/Norbert250)
+* [Abel Teka](https://github.com/TekaMesfinAbel)
+
 ## Problem statement
 
 In regions affected by war, the education system is one of the first societal
@@ -103,15 +112,6 @@ During this milestone (May 27 – June 2), our team focused on establishing a st
 * [Communication Plan](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/collaboration/communication.md)
 * [Constraints](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/collaboration/constraints.md)
 * [Learning Goals](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/collaboration/learning_goals.md)
-
-### 👥 Team Members
-
-* [Raneem Rami](https://github.com/Raneemrami)
-* [Viktoriya Haiduk](https://github.com/ViktoriyaHaiduk)
-* [Wuor Bhang](https://github.com/WuorBhang)
-* [Salem Amassi](https://github.com/salemAmassi)
-* [Norbert Busingye](https://github.com/Norbert250)
-* [Abel Teka](https://github.com/TekaMesfinAbel)
 
 ---
 
