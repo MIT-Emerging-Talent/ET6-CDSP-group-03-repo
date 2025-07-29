@@ -90,3 +90,105 @@ valuable insights than if we just used any other proxy data from a non-war affec
 * We are going to be trying our best to take into consideration all of the harsh war events that college students in Gaza go through, but
 due to a lack of data availability online about war events, we might miss some important effects like starvation.
 * Some of the war events data that we have is not really up to date with the situation.
+
+## Milestone 0: Cross-Cultural Collaboration
+
+During this milestone (May 27 – June 2), our team focused on establishing a strong foundation for
+ cross-cultural communication and collaborative workflows. Key deliverables include a configured
+ repository with project boards, documented group norms, project constraints, communication plans,
+  and learning goals. We also maintained meeting notes, set contributor guidelines, and completed a milestone retrospective. All materials were finalized and tagged before the deadline.
+
+### 📄 Collaboration Documents
+
+* [Communication Plan](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/collaboration/communication.md)
+* [Constraints](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/collaboration/constraints.md)
+* [Learning Goals](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/collaboration/learning_goals.md)
+
+### 👥 Team Members
+
+* [Raneem Rami](https://github.com/Raneemrami)
+* [Viktoriya Haiduk](https://github.com/ViktoriyaHaiduk)
+* [Wuor Bhang](https://github.com/WuorBhang)
+* [Salem Amassi](https://github.com/salemAmassi)
+* [Norbert Busingye](https://github.com/Norbert250)
+* [Abel Teka](https://github.com/TekaMesfinAbel)
+
+---
+
+## Milestone 1: Problem Identification
+
+Between June 3 and June 16, our team focused on identifying a meaningful, personal, and researchable
+ problem related to education in conflict zones. Through guided brainstorming and background
+ research, we formulated a clear and actionable research question. We explored how armed conflict
+ disrupts learning, damages infrastructure, and affects student performance and attendance. Our work
+ during this milestone laid the foundation for the data-driven analysis that followed, integrating
+ systems thinking and stakeholder perspectives to ensure relevance and real-world applicability.
+
+### 📂 Domain Research Summary
+
+* **Brainstorming Workflow**: We documented our ideation process using divergent and convergent thinking to explore and narrow down possible problem spaces. This helped us balance creativity with structure at each stage of exploration.
+* **Problems Pool**: We compiled a diverse set of research questions centered on the impact of war on education. These were grouped into key themes such as student performance, infrastructure
+breakdown, continuity of learning, and use of data in conflict zones.
+* **Systems Thinking**: Using the Iceberg Model, we analyzed root causes beneath surface-level issues like absenteeism and low performance, identifying deeper factors such as trauma, displacement, and instability.
+* **Five Ws and One H**: We applied this framework to define the core aspects of our problem (Who, What, Where, When, Why, How), ensuring clarity and structure.
+* **Research Resources Overview**: We curated a rich collection of academic and field resources, categorized into:
+  * War and Academic Performance  
+  * Online Learning Barriers  
+  * Impact of AI on Education  
+  * Stakeholders (NGOs, humanitarian orgs, ministries)  
+
+All documents and research are available in the [`0_domain_research`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/tree/main/0_domain_research) folder.
+
+---
+
+## Milestone 2: Data Collection
+
+Between June 17 and June 30, our team focused on collecting and curating a relevant dataset aligned
+ with our research question. We analyzed the domain to understand what data is accessible and what
+ gaps exist in the available information. We also created documentation, cleaning scripts, and a
+ cleaned version of all datasets. All datasets used were obtained from open sources. However, to
+ enrich our analysis with real-world academic outcomes, we have submitted data requests to universities for student performance data during wartime.
+
+### 📁 Data Documentation
+
+* All collected datasets and scripts are available in the [`2_data_preparation`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/tree/main/2_data_preparation) folder.
+
+* A detailed overview of our data sources, structure, and methodology is described in the [`README`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/2_data_preparation/README.md).
+
+---
+
+## Milestone 3: Data Analysis
+
+From July 1 to July 21, our focus was on applying appropriate data analysis techniques to answer our
+core research questions. Rather than pursuing complex algorithms, we prioritized clarity, relevance,
+ and alignment with the available data and domain context. We used visualizations along with both
+  technical and non-technical summaries to clearly communicate our insights. All findings were
+  supported by well-documented scripts and justifications.
+
+### 📊 Analysis Work
+
+During this milestone, we worked across two main folders:
+
+* [`3_data_exploration`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/3_data_exploration/README.md) — initial exploration and early visual patterns.
+* [`4_data_analysis`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/4_data_analysis/README.md) — deeper analysis and reproducible code.
+
+### 🔍 Key Findings
+
+Our analysis revealed the severe impact of the ongoing war on Gaza's education system:
+
+* Over **500 schools** (more than **80%** of all schools) have been destroyed or damaged.
+* **99.3%** of damaged infrastructure was residential — indicating that many students likely lost their homes. Excluding residential damage, **32.5%** of the remaining damage affected educational infrastructure.
+* Most **displacement orders** occurred on weekdays, overlapping with class and exam schedules.
+* **Attacks on food and market infrastructure** were highest in **Deir el-Balah** (75+) and **Gaza City** (65+) — areas densely populated by students (Oct 2023 – mid Sep 2024).
+* **96.5%** of daily casualties were civilians: **34.7% children**, **41.4% men**, and **23.9% women**.
+* **29 attacks** targeted people waiting for or receiving aid; **28** of these were attributed to the Israeli Armed Forces during the same period.
+
+These findings highlight the multilayered disruption faced by students — from destroyed schools and homes to threats during daily routines and humanitarian efforts.
+
+---
+
+### 🛠️ Tools We Use
+
+* **Python** for data processing and analysis  
+* **Libraries**: `pandas`, `numpy`, `matplotlib`  
+* **Version Control & Collaboration**: Git, VS Code, and GitHub  
