@@ -46,3 +46,7 @@
 ### 1.6. PalestineDatasets' Infrastucture Damage Data
 
 [Data Dictionary](/1_datasets/data/01_category_war_events_data/gaza_war_events/infrastructure_damaged/data_dict.md)
+
+### 1.7. OCHA Food Insecurity and Violent Conflict in Gaza (FIVC)
+
+[Data Dictionary](/1_datasets/data/01_category_war_events_data/food_insecurity_and_violent_conflict_gaza_dataset/data_dictionary.md)
