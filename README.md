@@ -187,6 +187,17 @@ These findings highlight the multilayered disruption faced by students — from 
 
 ---
 
+## Milestone 4: Communicating Results _(in progress)_
+
+From July 22 to August 11, our focus is on translating our data-driven insights into actionable
+messages for a well-defined audience. This milestone is about bridging the gap between technical
+analysis and real-world impact through clear, accessible communication. We are currently working on
+ identifying our target audience, understanding their needs and constraints, and designing an
+ effective communication strategy tailored specifically to them.
+
+ Stay tuned — this section will be updated with the final results and deliverables by
+August 11.
+
 ### 🛠️ Tools We Use
 
 * **Python** for data processing and analysis  
