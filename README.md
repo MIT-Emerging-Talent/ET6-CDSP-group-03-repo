@@ -136,7 +136,7 @@ breakdown, continuity of learning, and use of data in conflict zones.
   * Impact of AI on Education  
   * Stakeholders (NGOs, humanitarian orgs, ministries)  
 
-All documents and research are available in the [`0_domain_research`](/0_domain_research) folder.
+All documents and research are available in the [`0_domain_study`](/0_domain_study) folder.
 
 ---
 
