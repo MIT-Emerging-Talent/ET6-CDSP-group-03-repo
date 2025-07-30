@@ -158,7 +158,7 @@ academic outcomes, we have submitted data requests to universities for student p
 
 From July 1 to July 21, our focus was analysing war events data and theirs impact on education system in Gaza . Rather than pursuing complex algorithms, we prioritized clarity, relevance,
  and alignment with the available data and domain context. We used visualizations along with both
-  [`technical`](/4_data_analysis/technical_results.md)  and [`non-technical`](/4_data_analysis/non_technical_description.md) summaries to clearly communicate our insights.
+  [`technical`](/4_data_analysis/technical_description.md)  and [`non-technical`](/4_data_analysis/non_technical_results.md) summaries to clearly communicate our insights.
 
 ### 📊 Analysis Work
 
