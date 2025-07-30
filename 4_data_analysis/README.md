@@ -1,6 +1,6 @@
 # Data Analysis
 
-[Non technical results of our war events data analysis here](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/non-technical-document/4_data_analysis/non_technical_results.md)
+[Non technical results of our war events data analysis here](/4_data_analysis/non_technical_results.md)
 
 ## 📘 Non-Technical Summary
 
@@ -12,7 +12,7 @@ Our findings reveal a direct correlation between periods of intense conflict and
 schools, and attacks on food supply chains have created severe conditions for students. These
 hardships continue to affect their academic engagement.
 
-[technical description of our war events data analysis here](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/4_data_analysis/technical_description.md)
+[technical description of our war events data analysis here](/4_data_analysis/technical_description.md)
 
 ## 🛠️ Technical Summary
 
