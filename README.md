@@ -17,7 +17,6 @@ DATA ALCHEMISTS is dedicated to fostering a culture of trust, respect, and accou
 * [Wuor Bhang](https://github.com/WuorBhang)
 * [Salem Amassi](https://github.com/salemAmassi)
 * [Norbert Busingye](https://github.com/Norbert250)
-* [Abel Teka](https://github.com/TekaMesfinAbel)
 
 ## Problem statement
 
@@ -56,7 +55,7 @@ Using a systems thinking approach, we analyze the student's environment as a com
 
 These effects often create a negative feedback loop, where low performance leads to disengagement, further worsening outcomes. By understanding these relationships, we aim to propose data-driven strategies to identify at-risk students against these effects.
 
-**For further explanation of the problem, the iceberg model is applied** [in this file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/0_domain_study/systems_tkinking.md)
+**For further explanation of the problem, the iceberg model is applied** [in this file](/0_domain_study/systems_tkinking.md)
 
 ## 5 Ws and 1 H for our problem statement
 
@@ -109,9 +108,9 @@ During this milestone (May 27 – June 2), our team focused on establishing a st
 
 ### 📄 Collaboration Documents
 
-* [Communication Plan](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/collaboration/communication.md)
-* [Constraints](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/collaboration/constraints.md)
-* [Learning Goals](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/collaboration/learning_goals.md)
+* [Communication Plan](./collaboration/communication.md)
+* [Constraints](./collaboration/constraints.md)
+* [Learning Goals](./collaboration/learning_goals.md)
 
 ---
 
@@ -137,7 +136,7 @@ breakdown, continuity of learning, and use of data in conflict zones.
   * Impact of AI on Education  
   * Stakeholders (NGOs, humanitarian orgs, ministries)  
 
-All documents and research are available in the [`0_domain_research`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/tree/main/0_domain_research) folder.
+All documents and research are available in the [`0_domain_research`](/0_domain_research) folder.
 
 ---
 
@@ -151,7 +150,7 @@ academic outcomes, we have submitted data requests to universities for student p
 
 * All collected datasets and scripts are available in the [`2_data_preparation`](/2_data_preparation) folder.
 
-* A detailed overview of our data sources, structure, and methodology is described in the [`README`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/2_data_preparation/README.md).
+* A detailed overview of our data sources, structure, and methodology is described in the [`README`](./2_data_preparation/README.md).
 
 ---
 
@@ -165,8 +164,8 @@ From July 1 to July 21, our focus was analysing war events data and theirs impac
 
 During this milestone, we worked across two main folders:
 
-* [`3_data_exploration`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/3_data_exploration/README.md) — initial exploration and early visual patterns.
-* [`4_data_analysis`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/4_data_analysis/README.md) — deeper analysis and reproducible code.
+* [`3_data_exploration`](/3_data_exploration/README.md) — initial exploration and early visual patterns.
+* [`4_data_analysis`](/4_data_analysis/README.md) — deeper analysis and reproducible code.
 
 ### 🔍 Key Findings
 
@@ -197,5 +196,5 @@ August 11.
 ### 🛠️ Tools We Use
 
 * **Python** for data processing and analysis  
-* **Libraries**: `pandas`, `numpy`, `matplotlib`  
+* **Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn`
 * **Version Control & Collaboration**: Git, VS Code, and GitHub  
