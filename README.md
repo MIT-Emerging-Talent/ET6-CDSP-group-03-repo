@@ -143,15 +143,13 @@ All documents and research are available in the [`0_domain_research`](https://gi
 
 ## Milestone 2: Data Collection
 
-Between June 17 and June 30, our team focused on collecting and curating a relevant dataset aligned
- with our research question. We analyzed the domain to understand what data is accessible and what
- gaps exist in the available information. We also created documentation, cleaning scripts, and a
- cleaned version of all datasets. All datasets used were obtained from open sources. However, to
- enrich our analysis with real-world academic outcomes, we have submitted data requests to universities for student performance data during wartime.
+Between June 17 and June 30, our team focused on collecting war events data to measure the effect of war.  We also created documentation, cleaning scripts, and a  cleaned version of all datasets. All
+datasets used were obtained from open sources. However, to  enrich our analysis with real-world
+academic outcomes, we have submitted data requests to universities for student performance data during wartime.
 
 ### 📁 Data Documentation
 
-* All collected datasets and scripts are available in the [`2_data_preparation`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/tree/main/2_data_preparation) folder.
+* All collected datasets and scripts are available in the [`2_data_preparation`](/2_data_preparation) folder.
 
 * A detailed overview of our data sources, structure, and methodology is described in the [`README`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-03-repo/blob/main/2_data_preparation/README.md).
 
@@ -159,11 +157,9 @@ Between June 17 and June 30, our team focused on collecting and curating a relev
 
 ## Milestone 3: Data Analysis
 
-From July 1 to July 21, our focus was on applying appropriate data analysis techniques to answer our
-core research questions. Rather than pursuing complex algorithms, we prioritized clarity, relevance,
+From July 1 to July 21, our focus was analysing war events data and theirs impact on education system in Gaza . Rather than pursuing complex algorithms, we prioritized clarity, relevance,
  and alignment with the available data and domain context. We used visualizations along with both
-  technical and non-technical summaries to clearly communicate our insights. All findings were
-  supported by well-documented scripts and justifications.
+  technical and non-technical summaries to clearly communicate our insights.
 
 ### 📊 Analysis Work
 
