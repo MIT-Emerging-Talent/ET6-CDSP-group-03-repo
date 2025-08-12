@@ -19,3 +19,7 @@ Overall, our group worked effectively, and maintaining good communication throug
 From all the tasks in this milestone, I focused on finalizing the Communication Strategy document after the team had discussed and agreed on all the details. It was satisfying to bring everyone’s ideas together into a clear, polished format.
 
  Personally, I feel I contributed not only through my work on the document but also by helping keep the team on track.
+
+### Raneem Rami
+
+ I learned that communicating results is not easy, writing emails and documents tailored to each persona/institution needs practice and takes time and thinking.
