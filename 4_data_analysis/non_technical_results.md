@@ -122,34 +122,23 @@ In the beginning months, a large number of educational infrastructures were dama
 
 ### Data Analysis Food Insecurity
 
-In this analysis southern and northern parts of Gaza were considered southern or northern the Netzarim line.
-
 ![figure](plots_images/plot_seventeen.png)
 
-Deir el-Balah has the most food infrastructure attacks and it is in the southern part of Gaza and from the plot we can see that Gaza city has more than 65 attacks coming directly after Deir el-Balah, Gaza city is considered in the northern part of Gaza
-(northern the Netzarim line) but both Deir el-Balah and Gaza city are in the central part of Gaza and they are high populated cities (at least before the war).
-
-![figure](plots_images/plot_eighteen.png)
-from the plot we can see that most of the attacks were done by the Armed forces of Israel Armed forces of israel are responsible for more than 250 attacks out of a total of 284.
-
-![figure](plots_images/plot_nineteen.png)
-the most frequent attacking methods are 'Air or Drone Strike', 'Artillery, Shelling or Missile Fire',and Firearms. we have 15 undefined attacking methods.
+Deir el-Balah has the most food infrastructure attacks (more than 75) and from the plot we can see that Gaza city has more than 65 attacks coming directly after Deir el-Balah, both Deir el-Balah and Gaza city are in the central part of Gaza and they
+are high populated cities (at least before the war).
 
 ![figure](plots_images/plot_twenty.png)
 the most affected objects are 'crops and lands', then, 'food supply chains', and lastly comes 'food supply chains,populations'.
-crops and lands is mainly AND ONLY 'Agricultural Land', 150 were affected, for the most sub-object affected within 'Food Supply Chains': 24 bakeries and 24 markets were affected. This reflects the starvation that students in Gaza have had to go through
-and are still going through.
 
-we also found there were 29 attacks towards People Waiting for or Receiving Aid 28 out of 29 of these attacks were done by the Armed Forces of Israel.
+during the period (October 2023 to mid-September 2024)there were around 150 events that affected 'Agricultural Land'(crops and lands), as well as 24 events that affected market and 24 events affected bakeries (food supply chains) -
+which reflects the food insecurity.
 
 #### the period of July 2024 to september 2024
 
 ![figure](plots_images/plot_twenty_one.png)
 
-we can see even within this period of time most of the food infrastructure attacks happened in the southern part of Gaza, specifically 13 out of 17 attacks happened in the south: Deir el-Balah: 8 attacks Khan Younis: 5 attacks.
+we can see that within this period of time, most of the food infrastructure affected is in Deir el-Balah and Khan Younis.
 
 ![figure](plots_images/plot_twenty_two.png)
 
-the most effected Sub-Object within the period of July to September 2024 is Agricultural Lands (8), then, markets (5), and lastly 4 bakeries were attacked.
-
-![figure](plots_images/plot_twenty_three.png)
+the most effected Sub-Object within the period of July to September 2024 is Agricultural Lands (8), then, markets (5), and lastly 4 events affected bakeries-also reflects food insecurity.
