@@ -176,22 +176,27 @@ Our analysis revealed the severe impact of the ongoing war on Gaza's education s
 * Most **displacement orders** occurred on weekdays, overlapping with class and exam schedules.
 * **Attacks on food and market infrastructure** were highest in **Deir el-Balah** (75+) and **Gaza City** (65+) — areas densely populated by students (Oct 2023 – mid Sep 2024).
 * **96.5%** of daily casualties were civilians: **34.7% children**, **41.4% men**, and **23.9% women**.
-* **29 attacks** targeted people waiting for or receiving aid; **28** of these were attributed to the Israeli Armed Forces during the same period.
 
-These findings highlight the multilayered disruption faced by students — from destroyed schools and homes to threats during daily routines and humanitarian efforts.
+* during the period (October 2023 to mid-September 2024) there were around 150 events that affected 'Agricultural Lands'(crops and lands), as well as 24 events that affected markets and 24 events affected bakeries (food supply chains) -
+which reflects the food insecurity.
+
+These findings highlight the multilayered disruption faced by students — from destroyed schools and homes to displacements and food insecurity.
 
 ---
 
-## Milestone 4: Communicating Results _(in progress)_
+## Milestone 4: Communicating Results
 
 From July 22 to August 11, our focus is on translating our data-driven insights into actionable
 messages for a well-defined audience. This milestone is about bridging the gap between technical
-analysis and real-world impact through clear, accessible communication. We are currently working on
- identifying our target audience, understanding their needs and constraints, and designing an
- effective communication strategy tailored specifically to them.
+analysis and real-world impact through clear, accessible communication.
 
- Stay tuned — this section will be updated with the final results and deliverables by
-August 11.
+Our [`communication strategy`](5_communication_strategy/README.md) involves sending emails to universities in Gaza to gather more data, which will help us conduct further analysis and answer our research question.
+
+We sent an Email to Al-Azhar University of Gaza asking for students' academic performance and activity data. We have attached a [`data request document`](5_communication_strategy/al_azhar_university_of_gaza_data_request/al_azhar_university_of_gaza_data_request.md)
+to the email that includes
+sampling strategy and more details about the data we need. We have also included our findings in both the email and the doc.
+
+## Milestone 5: Final Presentation-(_in progress_)
 
 ### 🛠️ Tools We Use
 
