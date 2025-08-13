@@ -177,7 +177,7 @@ Our analysis revealed the severe impact of the ongoing war on Gaza's education s
 * **Attacks on food and market infrastructure** were highest in **Deir el-Balah** (75+) and **Gaza City** (65+) — areas densely populated by students (Oct 2023 – mid Sep 2024).
 * **96.5%** of daily casualties were civilians: **34.7% children**, **41.4% men**, and **23.9% women**.
 
-* during the period (October 2023 to mid-September 2024)there were around 150 events that affected 'Agricultural Land'(crops and lands), as well as 24 events that affected market and 24 events affected bakeries (food supply chains) -
+* during the period (October 2023 to mid-September 2024) there were around 150 events that affected 'Agricultural Lands'(crops and lands), as well as 24 events that affected markets and 24 events affected bakeries (food supply chains) -
 which reflects the food insecurity.
 
 These findings highlight the multilayered disruption faced by students — from destroyed schools and homes to displacements and food insecurity.
