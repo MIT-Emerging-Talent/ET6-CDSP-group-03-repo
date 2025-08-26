@@ -28,3 +28,8 @@ For the final milestone retrospective, we decided to include our lessons learned
 
 throughout the CDSP I learned a lot of things from technical things like what to consider when cleaning and analyzing a dataset to how to work in a team to deliver a cohesive project, and from this milestone I learned how to create slides that summarize
 a project and tell a story.
+
+### Viktoriya Haiduk
+
+This Milestone helped me organize my learnings and practice communicating research
+results in a clear and concise way. I also recognized my strengths in content preparation and areas for growth in presentation delivery, which will guide my further development
