@@ -36,7 +36,8 @@ We have analyzed war events data to measure the impact of war on students and th
 
 * Food insecurity attacks were highest in Deir el-Balah (more than 75 attacks) and Gaza City (more than 65 attacks) during the reported time (October 2023 to mid-September 2024)-highly populated cities before the war.
 
-* 150 Agricultural lands were affected, as well as 24 bakeries and 24 markets during the war (October 2023 to mid-September 2024), which reflects food insecurity.
+* During the period (October 2023 to mid-September 2024) of the war, there were around 150 events that affected 'Agricultural Lands'(crops and lands), as well as 24 events that affected markets and 24 events that affected bakeries (food supply chains)
+-which reflects the food insecurity.
 
 * 96.5% of the daily casualties are civilians, with 34.7% Children, 23.9% women, and 41.4% men.
 
