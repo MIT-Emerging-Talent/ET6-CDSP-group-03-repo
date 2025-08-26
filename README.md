@@ -196,7 +196,11 @@ We sent an Email to Al-Azhar University of Gaza asking for students' academic pe
 to the email that includes
 sampling strategy and more details about the data we need. We have also included our findings in both the email and the doc.
 
-## Milestone 5: Final Presentation-(_in progress_)
+## Milestone 5: Final Presentation
+
+During this milestone, we worked on our [final presentation slides](https://docs.google.com/presentation/d/1Bp3_wYUVAeWlG4DUM6i46GbkMYKr9RcaJkNyIdmuZE4/edit?slide=id.g3778f48067f_0_77#slide=id.g3778f48067f_0_77),
+which summarize our overall progress during the CDSP. These slides will be presented in the CDSP final presentation session, and they cover our problem statement, the motivation behind
+our study, key challenges, main insights, and our communication strategy.
 
 ### 🛠️ Tools We Use
 
