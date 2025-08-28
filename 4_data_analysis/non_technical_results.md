@@ -19,22 +19,33 @@ How does war disruption, such as violence, displacement, and infrastructure brea
 
 ## How are we modeling our problem?
 
-We are collecting data from the Islamic University of Gaza (IUG), this data includes Moodle logs capturing various student interactions in online learning during wartime, with fields such as:
+We are trying to get data from universities in Gaza, this data includes Moodle logs capturing various student interactions in online learning during wartime, with fields such as:
 
-Timestamp
-Event type (e.g., view, submit, login, forum post)
-Course ID
-Module
-Duration on page
-Grade items
-Cohort or department identifiers
-Gender
-Level of study (when linked via user profiles), we believe these features
+* Timestamp
+
+* Event type (e.g., view, submit, login, forum post)
+
+* Course ID
+
+* Module
+
+* Duration on page
+
+* Grade items
+
+* Cohort or department identifiers
+
+* Gender
+
+* Level of study (when linked via user profiles)
+
+We believe these variables are going to be good indicators of college students’ academic engagement and performance during wartime. For example, we can tell how engaged a student is by capturing their number of logins, their duration on the page,
+and by considering their grades as well.
 
 We have also gathered war events data from online websites. We are planning to correlate these with students' performance.
 
 As we still lack direct students' performance data in Gaza, we did a simple analysis of war events data. Through this analysis, we aim to measure the war's impact on the education system in Gaza. Until we get access to the students' performance data
-We still believe that the simple analysis of war events data contributes strongly to answering our research question.
+We still believe that the simple analysis of war events data contributes to answering our research question.
 
 * The data we collected is structured in tabular form.
 
