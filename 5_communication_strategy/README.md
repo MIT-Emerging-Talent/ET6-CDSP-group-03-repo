@@ -19,7 +19,7 @@ They mainly represent universities with direct access to **accurate and detailed
 ### Constraints
 
 - Security risks and operational disruptions due to the ongoing war.
-- Harsh living conditions and ongoing starvation.
+- Harsh living conditions due to the war.
 - Institutional and governmental rules regarding the sharing of sensitive or personal data.
 - Limited communication infrastructure in certain areas (internet and electricity outages).
 
