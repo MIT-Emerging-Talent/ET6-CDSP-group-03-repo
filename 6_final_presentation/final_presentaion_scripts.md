@@ -22,7 +22,8 @@ So we pivoted to analyzing available data on attack location, timing, and displa
 Taking Gaza as a case study, we found clear links between conflict events and disruptions to education.  
 
 - Around 500 schools, or 80 percent of all schools, have been destroyed or damaged.  
-- We also found that most displacement orders were issued on weekdays, and that 96 percent of daily casualties were civilians, more than a third of them children.  
+- We also found that most displacement orders were issued on weekdays
+- Most of the destruction, about 99 percent, is to homes. But what is striking is that in the small fraction of other infrastructure that was damaged, education makes up a third — showing just how exposed schools and universities are.
 
 ## Slide 6: Communication Strategy
 
