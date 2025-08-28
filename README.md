@@ -192,9 +192,15 @@ analysis and real-world impact through clear, accessible communication.
 
 Our [`communication strategy`](5_communication_strategy/README.md) involves sending emails to universities in Gaza to gather more data, which will help us conduct further analysis and answer our research question.
 
-We sent an Email to Al-Azhar University of Gaza asking for students' academic performance and activity data. We have attached a [`data request document`](5_communication_strategy/al_azhar_university_of_gaza_data_request/al_azhar_university_of_gaza_data_request.md)
-to the email that includes
-sampling strategy and more details about the data we need. We have also included our findings in both the email and the doc.
+We sent an Email to Al-Azhar University of Gaza and Alaqsa-University-Gaza asking for students' academic performance and activity data.
+
+sampling strategy and more details about the data we need were included in the documents we attached to the emails:
+
+* [`Al-Azhar University of Gaza-doc`](5_communication_strategy/al_azhar_university_of_gaza_data_request/al_azhar_university_of_gaza_data_request.md)
+
+* [`Alaqsa-University-Gaza-doc`](5_communication_strategy/al_azhar_university_of_gaza_data_request/alaqsa_university_gaza_data_request.md)
+
+We have also included our findings in both the email and the document.
 
 ## Milestone 5: Final Presentation
 
