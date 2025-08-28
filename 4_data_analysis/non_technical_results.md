@@ -1,12 +1,12 @@
 # Non-Technical Results Of War Events Data Analysis
 
-We did a very detailed research trying to investigate the effect of conflicts on education and students' lives, our domain research included different aspects of education from the impact of AI on education to the effect of war on online learning.
-At the end we chose to study the affect of war on students performance
+We did a very detailed research trying to investigate the effect of conflicts on education and students' lives. Our domain research included different aspects of education, from the impact of AI on education to the effect of war on online learning.
+At the end, we chose to study the effects of war on students' academic performance and activity.
 
 ## Problem statement
 
 In regions affected by war, the education system is one of the first societal structures to collapse. Students who once demonstrated high academic performance and consistent attendance often experience a significant decline
-in both after conflict begins. Violence, displacement, psychological trauma, and the breakdown
+in both after the conflict begins. Violence, displacement, psychological trauma, and the breakdown
 of infrastructure such as internet access or school
 availability
 contribute to reduced academic outcomes and disrupted attendance.
@@ -15,7 +15,7 @@ targeted interventions. research question.
 
 ## Research Question
 
-How does war disruption such as violence, displacement, and infrastructure breakdown impact students' academic performance and attendance on online learning for students in colleges in war affected zones?
+How does war disruption, such as violence, displacement, and infrastructure breakdown, impact students' academic performance and attendance in online learning for students in colleges in war-affected zones?
 
 ## How are we modeling our problem?
 
@@ -31,21 +31,20 @@ Cohort or department identifiers
 Gender
 Level of study (when linked via user profiles), we believe these features
 
-We have also gathered war events data from online websites, we are planning to use these to prove the harsh events going on in Gaza and correlate them with students' performance.
+We have also gathered war events data from online websites. We are planning to correlate these with students' performance.
 
-As we still lack direct students' performance data in Gaza, we did a simple analysis on war events data. Through this analysis, we aim to show and prove the harsh conditions students in Gaza went through, even if some of these events did not happen
-during the back of formal college studies in July 2024, they definitely contributed to affecting their mentality as they have gone through all of these extremely terrifying  events, even if they happened before, during, or after the formal college
-studies are back, which will surely affect their academic performance, until we get access to the students' performance data from the Islamic university
-of Gaza (IUG)
+As we still lack direct students' performance data in Gaza, we did a simple analysis of war events data. Through this analysis, we aim to measure the war's impact on the education system in Gaza. Until we get access to the students' performance data
 We still believe that the simple analysis of war events data contributes strongly to answering our research question.
+
+* The data we collected is structured in tabular form.
 
 ### Possible flaws
 
-* Some of the war events data we collected online contains untrue or misleading values, like the number of fatalities in a lot of datasets is in fact less than the actual number.
+* Some of the war events data we collected online contains untrue or misleading values, like the number of fatalities in a lot of datasets is in fact, less than the actual number.
 
-* We are going to be trying our best to take into consideration all of the harsh war events that college students in Gaza go through, but due to a lack of data availability online about war events, we might miss some important effects like starvation.
+* We are going to be trying our best to take into consideration all of the harsh war events that college students in Gaza go through, but due to a lack of data availability online about war events, we might miss some important effects.
 
-* some of the war events data that we have is not really up to date with the situation.
+* Some of the war events data that we have is not really up to date with the situation, and does not report events after the formal comeback to studies in colleges.
 
 ### Data Analysis Displacements Orders
 
