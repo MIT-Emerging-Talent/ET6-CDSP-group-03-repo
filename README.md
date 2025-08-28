@@ -198,7 +198,7 @@ sampling strategy and more details about the data we need were included in the d
 
 * [`Al-Azhar University of Gaza-doc`](5_communication_strategy/al_azhar_university_of_gaza_data_request/al_azhar_university_of_gaza_data_request.md)
 
-* [`Alaqsa-University-Gaza-doc`](5_communication_strategy/al_azhar_university_of_gaza_data_request/alaqsa_university_gaza_data_request.md)
+* [`Alaqsa-University-Gaza-doc`](5_communication_strategy/alaqsa_university_gaza_data_request/alaqsa_university_gaza_data_request.md)
 
 We have also included our findings in both the email and the document.
 
