@@ -23,7 +23,7 @@ Taking Gaza as a case study, we found clear links between conflict events and di
 
 - Around 500 schools, or 80 percent of all schools, have been destroyed or damaged.  
 - We also found that most displacement orders were issued on weekdays
-- Most of the destruction, about 99 percent, is to homes. But what is striking is that in the small fraction of other infrastructure that was damaged, education makes up a third — showing just how exposed schools and universities are.
+- Most of the destruction, about 99 percent, is residential. But what is striking is that in the small fraction of other infrastructure that was damaged, education makes up a third — showing just how exposed schools and universities are.
 
 ## Slide 6: Communication Strategy
 
