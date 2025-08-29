@@ -51,9 +51,9 @@ We still believe that the simple analysis of war events data contributes to answ
 
 ### Possible flaws
 
-* Some of the war events data we collected online contains untrue or misleading values, like the number of fatalities in a lot of datasets is in fact, less than the actual number.
+* Some of the war events data we collected online contains untrue or misleading values.
 
-* We are going to be trying our best to take into consideration all of the harsh war events that college students in Gaza go through, but due to a lack of data availability online about war events, we might miss some important effects.
+* We are going to be trying our best to take into consideration all of the war events that college students in Gaza go through, but due to a lack of data availability online about war events, we might miss some important effects.
 
 * Some of the war events data that we have is not really up to date with the situation, and does not report events after the formal comeback to studies in colleges.
 
